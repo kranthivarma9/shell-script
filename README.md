@@ -1,2 +1,0 @@
-# shell-script
-Shell Scripting
