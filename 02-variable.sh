@@ -1,0 +1,1 @@
+this the sampls script file
